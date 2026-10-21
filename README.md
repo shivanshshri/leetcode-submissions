@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/shivanshshri/leetcode-submissions/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/shivanshshri/leetcode-submissions/tree/master/0051-n-queens) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/shivanshshri/leetcode-submissions/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2540-minimum-common-value](https://github.com/shivanshshri/leetcode-submissions/tree/master/2540-minimum-common-value) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/shivanshshri/leetcode-submissions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/shivanshshri/leetcode-submissions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Hash Table
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/shivanshshri/leetcode-submissions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/shivanshshri/leetcode-submissions/tree/master/0037-sudoku-solver) |
+| [2540-minimum-common-value](https://github.com/shivanshshri/leetcode-submissions/tree/master/2540-minimum-common-value) |
 ## Matrix
 |  |
 | ------- |
@@ -44,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2089-find-target-indices-after-sorting-array](https://github.com/shivanshshri/leetcode-submissions/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2540-minimum-common-value](https://github.com/shivanshshri/leetcode-submissions/tree/master/2540-minimum-common-value) |
 ## Sorting
 |  |
 | ------- |
@@ -64,4 +67,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/shivanshshri/leetcode-submissions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+## Two Pointers
+|  |
+| ------- |
+| [2540-minimum-common-value](https://github.com/shivanshshri/leetcode-submissions/tree/master/2540-minimum-common-value) |
 <!---LeetCode Topics End-->
