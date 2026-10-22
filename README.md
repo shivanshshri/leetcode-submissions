@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/shivanshshri/leetcode-submissions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/shivanshshri/leetcode-submissions/tree/master/0037-sudoku-solver) |
+| [0242-valid-anagram](https://github.com/shivanshshri/leetcode-submissions/tree/master/0242-valid-anagram) |
 | [2540-minimum-common-value](https://github.com/shivanshshri/leetcode-submissions/tree/master/2540-minimum-common-value) |
 ## Matrix
 |  |
@@ -54,10 +55,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/shivanshshri/leetcode-submissions/tree/master/0242-valid-anagram) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/shivanshshri/leetcode-submissions/tree/master/2089-find-target-indices-after-sorting-array) |
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/shivanshshri/leetcode-submissions/tree/master/0242-valid-anagram) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/shivanshshri/leetcode-submissions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Stack
 |  |
