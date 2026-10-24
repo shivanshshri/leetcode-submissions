@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/shivanshshri/leetcode-submissions/tree/master/0051-n-queens) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/shivanshshri/leetcode-submissions/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/shivanshshri/leetcode-submissions/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2273-find-resultant-array-after-removing-anagrams](https://github.com/shivanshshri/leetcode-submissions/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2540-minimum-common-value](https://github.com/shivanshshri/leetcode-submissions/tree/master/2540-minimum-common-value) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/shivanshshri/leetcode-submissions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/shivanshshri/leetcode-submissions/tree/master/3232-find-if-digit-game-can-be-won) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/shivanshshri/leetcode-submissions/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/shivanshshri/leetcode-submissions/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/shivanshshri/leetcode-submissions/tree/master/0242-valid-anagram) |
+| [2273-find-resultant-array-after-removing-anagrams](https://github.com/shivanshshri/leetcode-submissions/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2540-minimum-common-value](https://github.com/shivanshshri/leetcode-submissions/tree/master/2540-minimum-common-value) |
 ## Matrix
 |  |
@@ -60,12 +62,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/shivanshshri/leetcode-submissions/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/shivanshshri/leetcode-submissions/tree/master/0242-valid-anagram) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/shivanshshri/leetcode-submissions/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2273-find-resultant-array-after-removing-anagrams](https://github.com/shivanshshri/leetcode-submissions/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 ## String
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/shivanshshri/leetcode-submissions/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/shivanshshri/leetcode-submissions/tree/master/0242-valid-anagram) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/shivanshshri/leetcode-submissions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2273-find-resultant-array-after-removing-anagrams](https://github.com/shivanshshri/leetcode-submissions/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 ## Stack
 |  |
 | ------- |
