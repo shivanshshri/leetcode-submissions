@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/shivanshshri/leetcode-submissions/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/shivanshshri/leetcode-submissions/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/shivanshshri/leetcode-submissions/tree/master/0052-n-queens-ii) |
+| [0077-combinations](https://github.com/shivanshshri/leetcode-submissions/tree/master/0077-combinations) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/shivanshshri/leetcode-submissions/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 ## Algorithm X
 |  |
