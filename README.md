@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/shivanshshri/leetcode-submissions/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/shivanshshri/leetcode-submissions/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/shivanshshri/leetcode-submissions/tree/master/0242-valid-anagram) |
+| [0771-jewels-and-stones](https://github.com/shivanshshri/leetcode-submissions/tree/master/0771-jewels-and-stones) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/shivanshshri/leetcode-submissions/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2540-minimum-common-value](https://github.com/shivanshshri/leetcode-submissions/tree/master/2540-minimum-common-value) |
 ## Matrix
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/shivanshshri/leetcode-submissions/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/shivanshshri/leetcode-submissions/tree/master/0242-valid-anagram) |
+| [0771-jewels-and-stones](https://github.com/shivanshshri/leetcode-submissions/tree/master/0771-jewels-and-stones) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/shivanshshri/leetcode-submissions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/shivanshshri/leetcode-submissions/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 ## Stack
