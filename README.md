@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/shivanshshri/leetcode-submissions/tree/master/0094-binary-tree-inorder-traversal) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/shivanshshri/leetcode-submissions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
 |  |
@@ -99,4 +100,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/shivanshshri/leetcode-submissions/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/shivanshshri/leetcode-submissions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/shivanshshri/leetcode-submissions/tree/master/0094-binary-tree-inorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/shivanshshri/leetcode-submissions/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/shivanshshri/leetcode-submissions/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
